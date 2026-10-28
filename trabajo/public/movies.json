@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "title": "El Viaje a la Luna",
+    "synopsis": "Un grupo de astrónomos viaja a la luna en una cápsula impulsada por un cañón y se encuentra con extraños habitantes selenitas.",
+    "year": 1902,
+    "category": "Ciencia Ficción",
+    "videoUrl": "/videos/Viaje_luna.mp4",
+    "imageUrl": "/images/image_viaje_luna.png"
+  },
+  {
+    "id": "2",
+    "title": "El Gran Robo al Tren",
+    "synopsis": "Cortometraje mudo pionero que narra el asalto a un tren de pasajeros por parte de una despiadada banda de forajidos.",
+    "year": 1903,
+    "category": "Acción",
+    "videoUrl": "/videos/The_Great_Train_Robbery_(1903).mp4",
+    "imageUrl": "/images/image_The_Great_Train_Robbery.png"
+  },
+  {
+    "id": "3",
+    "title": "Superman: The Mechanical Monsters",
+    "synopsis": "El hombre de acero debe detener a un científico loco y su ejército de robots voladores.",
+    "year": 1941,
+    "category": "Animación",
+    "videoUrl": "/videos/superman_the_mechanical_monsters_512kb.mp4",
+    "imageUrl": "/images/image_superman_the_mechanical_monsters_512kb.png"
+  },
+  {
+    "id": "4",
+    "title": "El Inmigrante",
+    "synopsis": "Charlie Chaplin interpreta a un inmigrante que sufre un turbulento viaje en barco hacia Estados Unidos.",
+    "year": 1917,
+    "category": "Comedia",
+    "videoUrl": "/videos/CC_1917_06_17_TheImmigrant_512kb.mp4",
+    "imageUrl": "/images/image_CC_1917_06_17_TheImmigrant_512kb.png"
+  },
+  {
+    "id": "5",
+    "title": "Duck and Cover",
+    "synopsis": "Cortometraje de la Defensa Civil de EE.UU. que enseñaba a protegerse en caso de un ataque nuclear.",
+    "year": 1951,
+    "category": "Educativo",
+    "videoUrl": "/videos/DuckandC1951_512kb.mp4",
+    "imageUrl": "/images/image_DuckandC1951_512kb.png"
+  },
+  {
+    "id": "6",
+    "title": "Felix in Hollywood",
+    "synopsis": "El Gato Félix viaja a Hollywood para probar suerte en el cine y conoce a grandes estrellas.",
+    "year": 1923,
+    "category": "Animación",
+    "videoUrl": "/videos/Felix_in_Hollywood_[1923].mp4",
+    "imageUrl": "/images/image_Felix_in_Hollywood_[1923].png"
+  },
+  {
+    "id": "7",
+    "title": "A Date with Your Family",
+    "synopsis": "Cortometraje que muestra las estrictas reglas de comportamiento y etiqueta durante la cena familiar.",
+    "year": 1950,
+    "category": "Educativo",
+    "videoUrl": "/videos/DateWith1950_512kb.mp4",
+    "imageUrl": "/images/image_DateWith1950_512kb.png"
+  },
+  {
+    "id": "8",
+    "title": "Steamboat Willie",
+    "synopsis": "El cortometraje que hizo famoso a Mickey Mouse. Una joya histórica de la animación con sonido sincronizado.",
+    "year": 1928,
+    "category": "Animación",
+    "videoUrl": "/videos/Steamboat_Willie.mp4",
+    "imageUrl": "/images/image_Steamboat_Willie.png"
+  },
+  {
+    "id": "9",
+    "title": "Betty Boop in Snow White",
+    "synopsis": "Una versión surrealista y animada del clásico cuento de Blancanieves.",
+    "year": 1933,
+    "category": "Animación",
+    "videoUrl": "/videos/bb_snow_white_512kb.mp4",
+    "imageUrl": "/images/image_bb_snow_white_512kb.png"
+  },
+  {
+    "id": "10",
+    "title": "A Trip Down Market Street",
+    "synopsis": "Un recorrido en tranvía por San Francisco grabado días antes del terremoto de 1906.",
+    "year": 1906,
+    "category": "Documental",
+    "videoUrl": "/videos/Trip_Down_Market_Street_1906_SCORE2010.mp4",
+    "imageUrl": "/images/image_A_Trip_Down_Market_Street.jpg"
+  }
+]
